@@ -1,1 +1,4 @@
 - create routes
+- learn how to use useNavigate hooks
+- learn how to use react route
+- use of outlet 
